@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "PrediccionApp",
+    "slug": "prediccion-app",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.16",
+    "orientation": "portrait",
+    "icon": null,
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": null,
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": null,
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": null
+    }
+  }
+}
