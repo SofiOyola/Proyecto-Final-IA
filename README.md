@@ -1,3 +1,11 @@
+# Este proyecto fue realizado con este colab
+https://colab.research.google.com/drive/1lmRuBzwCXuLauim5xsA-psbhDfezeNtj?usp=sharing
+
+# Hecho por
+María Sofía Oyola Lozano
+Santiago Carvajal Valdes
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
